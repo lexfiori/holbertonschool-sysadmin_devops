@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -AdR | wc -l 
+=======
+find . -type d -mindepth 1 -print | wc -l
+>>>>>>> eb128c99d775ef7ded0a93bde4e958cbcec2868e
